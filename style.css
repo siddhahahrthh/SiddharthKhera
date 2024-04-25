@@ -216,20 +216,9 @@ section .title span::after{
   left: 50%;
   transform: translateX(-50%);
 }
-.about .about-details .left{
-  width: 45%;
-}
-.about .left{
-  margin-bottom: 5%;
-}
-.about .left img{
-  height: 400px;
-  width: 400px;
-  object-fit: cover;
-  border-radius: 15%;
-}
+
 .about-details .right{
-  width: 55%;
+  width: 80%;
 }
 section  .topic{
   color: #0E2431;
